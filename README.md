@@ -1,6 +1,8 @@
+![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t1.6435-9/129446546_3758070727624080_3468320929998922220_n.jpg?stp=dst-jpg_p960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF9UV4LLkR_uILGpYuLrtwOn7qD94B-pyWfuoP3gH6nJd4BE7pTWsNgkOaJ3P38AAPXiBZqiptS2uO9L0TyiV3V&_nc_ohc=6X0F6vMf2G0AX_8-lir&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDP2QO8ZckM6zwOQdQQRqD5Y0mTry6OGlz4nm3fDH__6Q&oe=63BA40C2)
+
 ### Hi there 👋, I'm Sazal Ahmed
 #### Web Developer
-![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t1.6435-9/129446546_3758070727624080_3468320929998922220_n.jpg?stp=dst-jpg_p960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF9UV4LLkR_uILGpYuLrtwOn7qD94B-pyWfuoP3gH6nJd4BE7pTWsNgkOaJ3P38AAPXiBZqiptS2uO9L0TyiV3V&_nc_ohc=6X0F6vMf2G0AX_8-lir&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDP2QO8ZckM6zwOQdQQRqD5Y0mTry6OGlz4nm3fDH__6Q&oe=63BA40C2)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
