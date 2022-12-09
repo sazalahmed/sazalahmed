@@ -21,6 +21,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Java Script 
 <br/>
 ✅ PHP
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazalahmed)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👨‍💻 Additional Information:
@@ -42,7 +43,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sazalahmed)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazalahmed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazalahmed&show_icons=true&count_private=true)  
 
