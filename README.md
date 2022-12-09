@@ -13,9 +13,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ HTML 
 <br/>
 ✅ CSS 
+<br/>
 ✅ Bootstrap 
+<br/>
 ✅ REACT 
+<br/>
 ✅ Java Script 
+<br/>
 ✅ PHP
 
 
