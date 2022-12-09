@@ -1,8 +1,9 @@
 ![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/318936910_5883350135096118_2755281187941829197_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE_42TagPogaUvltRdmxuhCEEeIxGK0iukQR4jEYrSK6asD3lKhEbQ6MdvuXyCErpsSwnbzZYJjAE9PzP_w--hv&_nc_ohc=cj0MZeSAXBAAX_X5rAK&_nc_ht=scontent.fdac110-1.fna&oh=00_AfAoLN20epceDt1tKZpaCzldFcRtapR4UVR59pNnvyaAvw&oe=6396FAE5)
 
 ## I'm Mahamudul Hassan Sazal 👋
-##### 👑 Web Developer
-##### 🖊️ Love to write code
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
 
 ## 🚀 About Me
