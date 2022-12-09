@@ -28,7 +28,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 <br/>
 ✅ Photoshop / Illustrator
 <br/>
-<br/>
 
 
 ## 👨‍💻 Additional Information:
