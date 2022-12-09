@@ -9,7 +9,7 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Some technologies I enjoy working with include ReactJS, and JavaScript.
 
 
-### 👨‍💻 Skills & Experiance:
+## 👨‍💻 Skills & Experiance:
 ✅ HTML 
 ✅ CSS 
 ✅ Bootstrap 
@@ -18,7 +18,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ PHP
 
 
-### 👨‍💻 Additional Information:
+## 👨‍💻 Additional Information:
 - 🔭 I’m currently working on websolutionUS 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Web Design 
