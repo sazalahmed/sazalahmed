@@ -29,7 +29,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Photoshop / Illustrator
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazalahmed)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👨‍💻 Additional Information:
@@ -44,6 +43,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 🙋‍♂️ Ask me about Web Design 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazalahmed)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazalahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/in-sazal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/web.engr.sazal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ins_sazal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sazal2020)   -->
 
