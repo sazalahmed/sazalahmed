@@ -25,9 +25,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## 👨‍💻 Additional Information:
 💻 I’m currently working on websolutionUS 
+<br/>
 🧑‍💻 I’m currently learning Javascript 
+<br/>
 🧑‍🤝‍🧑 I’m looking to collaborate on Web Design 
+<br/>
 💁 I’m looking for help with React js 
+<br/>
 🙋‍♂️ Ask me about Web Design 
 
 
