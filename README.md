@@ -1,6 +1,6 @@
 
 # I'm Mahamudul Hassan Sazal 👋
-👑 I am Web Developer
+👑 Web Developer
 <br/>
 🖊️ Love to write code
 <br/>
