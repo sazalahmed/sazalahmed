@@ -6,7 +6,7 @@
 <br/>
 🎤 Like to share my knowledge
 
-![Profile views](https://gpvc.arturio.dev/sazalahmed)  
+![Profile views]([https://gpvc.arturio.dev/sazalahmed](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/318936910_5883350135096118_2755281187941829197_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeE_42TagPogaUvltRdmxuhCEEeIxGK0iukQR4jEYrSK6asD3lKhEbQ6MdvuXyCErpsSwnbzZYJjAE9PzP_w--hv&_nc_ohc=1aoCbOL9cIUAX-qmXZq&_nc_ht=scontent.fdac7-1.fna&oh=00_AfD9_NRCle7av_2_7sYAf8UFEqu7-_0CtHvlGzooaoAvlw&oe=65A10CE5))  
 
 ## 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Some technologies I enjoy working with include ReactJS, and JavaScript.
