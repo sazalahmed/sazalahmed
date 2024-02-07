@@ -25,12 +25,16 @@ I’m a Front End Web developer who is passionate about making error-free websit
 <br/>
 ✅ PHP
 <br/>
-✅ Photoshop / Illustrator
+✅ Figma
+<br/>
+✅ Photoshop
+<br/>
+✅ Illustrator
 <br/>
 
 
 ## 👨‍💻 Additional Information:
-💻 I’m currently working on websolutionUS 
+💻 I’m currently working on AppeyTech Ltd 
 <br/>
 🧑‍💻 I’m currently learning Javascript 
 <br/>
